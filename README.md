@@ -22,3 +22,8 @@ This repository was created for **GBBA BioHack 2026**, organized by the **Gradua
 
 ## About This Repository
 This repository will contain our team's submission for GBBA BioHack 2026.
+## 🎤 Presentation
+
+**Google Slides:** [View Presentation](https://docs.google.com/presentation/d/14taL3mDlIl9JrqeznElNdrTOwxLQ-0GJ1jj2jcQKDrg/edit?slide=id.g3ba48983ece_0_5#slide=id.g3ba48983ece_0_5)
+
+*5-minute presentation covering dataset selection, problems identified, cleaning results, and recommendations*

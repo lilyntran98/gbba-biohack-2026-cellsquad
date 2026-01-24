@@ -1,5 +1,12 @@
 # 🧬 GBBA BioHack 2026 - Team Cells Squad
 
+## 🏆 Awards
+
+![Best Presentation] (https://img.shields.io/badge/GBBA%20BioHack%202026-Best%20Presentation-gold?style=for-the-badge)
+
+![Technical Depth] (https://img.shields.io/badge/GBBA%20BioHack%202026-Technical%20Depth-blue?style=for-the-badge)
+
+
 **Team Members:**
 - Lily Lee
 - Yash Kiran

@@ -222,3 +222,6 @@ Through this challenge, we demonstrated:
 - **Documentation:** Created comprehensive, reproducible analysis pipeline
 - **Communication:** Presented findings clearly with evidence-based recommendations
 
+  
+<img width="500" height="500" alt="BioHack" src="https://github.com/user-attachments/assets/beae234f-f0b2-41c6-a2e8-357f3e92476d" />
+
